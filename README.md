@@ -1,6 +1,6 @@
-# AnyCraft - Canvas SDK for Human-AI Collaboration, built as a React wrapper for Excaildraw.
+# AnyCraft - Canvas SDK for Human-AI Collaboration
 
-AnyCraft is an open-source React wrapper for the tldraw SDK, designed to create collaborative whiteboard and canvas experiences for human and AI interactions. Written in TypeScript and styled with TailwindCSS, AnyCraft enables seamless integration and manipulation of Excaildraw components, facilitating the ideation process in the AI era.
+AnyCraft is an open-source React wrapper for the Excaildraw SDK, designed to create collaborative whiteboard and canvas experiences for human and AI interactions. Written in TypeScript and styled with TailwindCSS, AnyCraft enables seamless integration and manipulation of Excaildraw components, facilitating the ideation process in the AI era.
 
 ## Setup
 
